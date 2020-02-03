@@ -25,7 +25,7 @@ bytes = random._urandom(1490)
 #############
 print(g)
 os.system("clear")
-os.system("apt install fglet -y")
+os.system("apt install figlet -y")
 os.system("figlet DDos Attack")
 print(b)
 print "Author   : Mr amine10a"
